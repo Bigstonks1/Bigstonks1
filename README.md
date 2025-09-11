@@ -95,8 +95,8 @@ A comprehensive full-stack web application for salon management with modern secu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-rho-27.vercel.app/api?username=Bigstonks1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jason's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats-seven-rho-27.vercel.app/api/top-langs/?username=Bigstonks1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-plum-delta-26.vercel.app/api?username=Bigstonks1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jason's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-plum-delta-26.vercel.app/api/top-langs/?username=Bigstonks1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
